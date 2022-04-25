@@ -9,3 +9,5 @@ Owen:
 
 Michael:
     Right of Way Permits Data: https://data.wprdc.org/dataset/right-of-way-permits
+
+Quick Summary: A data driven project to find the best neighborhood in Pittsburgh based on travel ability, given by assigning points to the best neighborhoods in the 3 dataset categories.
